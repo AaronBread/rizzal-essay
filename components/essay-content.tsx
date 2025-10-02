@@ -88,7 +88,7 @@ export function EssayContent() {
         <p className="leading-relaxed text-foreground/90 mb-4">
           Rizal's character and emergence as a national hero were shaped by an interplay of biological inheritance,
           formative environments (family, education, and the colonial context), pivotal life experiences (study abroad,
-          exile in Dapitan, arrest and execution), and continuous moral reflection—producing a thinker who combined
+          exile in Dapitan, arrest and execution), and continuous moral reflection producing a thinker who combined
           intellectual courage with pragmatic reformism.
         </p>
       </section>
@@ -119,8 +119,8 @@ export function EssayContent() {
         <h3 className="text-xl font-semibold text-foreground mt-8 mb-4">A. Inherited traits</h3>
         <p className="leading-relaxed text-foreground/90 mb-4">
           Rizal came from a mestizo family with Chinese, Tagalog, Spanish, and possibly Japanese ancestors. His family's
-          mixed ancestry and the social standing that flowed from it helped shape early opportunities—access to
-          education and networks—while also subjecting him to the social complexities of colonial hierarchy.
+          mixed ancestry and the social standing that flowed from it helped shape early opportunities access to
+          education and networks while also subjecting him to the social complexities of colonial hierarchy.
         </p>
 
         <h3 className="text-xl font-semibold text-foreground mt-8 mb-4">
@@ -129,7 +129,7 @@ export function EssayContent() {
         <p className="leading-relaxed text-foreground/90 mb-4">
           Contemporary descriptions note Rizal's intelligence, good health in youth, and precocious development (reading
           and writing at a young age). His physical stamina and robust constitution supported extensive travel, study,
-          and sustained intellectual output—factors that enabled his prolific writing and activism. (Biographical
+          and sustained intellectual output factors that enabled his prolific writing and activism. (Biographical
           accounts record his active life as a physician, traveler, and polymath.)
         </p>
       </section>
@@ -147,7 +147,7 @@ export function EssayContent() {
         <p className="leading-relaxed text-foreground/90 mb-4">
           Rizal was the seventh of eleven children of Francisco Mercado and Teodora Alonso. His mother was a strong
           intellectual influence (tutoring him early), and his brother Paciano later guided his political orientation.
-          The family emphasized learning, piety, and civic duty—foundations for Rizal's moral seriousness and literary
+          The family emphasized learning, piety, and civic duty foundations for Rizal's moral seriousness and literary
           ambitions.
         </p>
 
@@ -179,7 +179,7 @@ export function EssayContent() {
         </h3>
         <p className="leading-relaxed text-foreground/90 mb-4">
           Late 19th-century Philippines was marked by colonial inequalities, friar dominance, and limited political
-          representation—conditions Rizal analyzed and dramatized in his novels. The wider Propaganda Movement of
+          representation conditions Rizal analyzed and dramatized in his novels. The wider Propaganda Movement of
           Filipino expatriates seeking reform set the intellectual and political stage for Rizal's writings and eventual
           martyrdom.
         </p>
@@ -213,7 +213,7 @@ export function EssayContent() {
         <p className="leading-relaxed text-foreground/90 mb-4">
           In Europe Rizal encountered liberal political thought, scientific methods, and networks of reform-minded
           Filipino expatriates. He published his major novels there, used European presses to criticize colonial abuses,
-          and participated in the Propaganda Movement—experiences that sharpened his arguments for peaceful reform and
+          and participated in the Propaganda Movement experiences that sharpened his arguments for peaceful reform and
           gave his writings international reach.
         </p>
 
@@ -242,7 +242,7 @@ export function EssayContent() {
         <h3 className="text-xl font-semibold text-foreground mt-8 mb-4">C. Rizal's Arrest, Trial, and Execution</h3>
         <p className="leading-relaxed text-foreground/90 mb-4">
           Despite advocating nonviolent reform, Rizal was arrested, tried by Spanish authorities, and executed by firing
-          squad on December 30, 1896—an event that transformed him from reformer to martyr and galvanized broader
+          squad on December 30, 1896 an event that transformed him from reformer to martyr and galvanized broader
           support for independence. His trial and execution remain central to his heroic image.
         </p>
       </section>
@@ -304,7 +304,7 @@ export function EssayContent() {
         <p className="leading-relaxed text-foreground/90 mb-4">
           Rizal matured from a precocious student into an internationally educated reformer who increasingly combined
           literary critique with direct civic action (e.g., institutions he built in Dapitan). His final years show a
-          synthesis of thought and practice—intellectual protest paired with community service—culminating in a moral
+          synthesis of thought and practice intellectual protest paired with community service culminating in a moral
           stance that accepted personal sacrifice.
         </p>
       </section>
@@ -330,7 +330,7 @@ export function EssayContent() {
         </h3>
         <p className="leading-relaxed text-foreground/90 mb-4">
           Adversity focused Rizal's energies into writings that exposed structural injustices and into community work
-          that demonstrated principled leadership. His martyrdom—execution after a controversial trial—converted
+          that demonstrated principled leadership. His martyrdom execution after a controversial trial converted
           scholarly dissent into national inspiration, making his intellectual and moral example a rallying point for
           later independence efforts.
         </p>
@@ -369,7 +369,7 @@ export function EssayContent() {
 
         <h3 className="text-xl font-semibold text-foreground mt-8 mb-4">B. Reflection on Rizal's legacy</h3>
         <p className="leading-relaxed text-foreground/90 mb-4">
-          Rizal remains a complex symbol—a moral exemplar, a contested national hero, and a deeply human figure whose
+          Rizal remains a complex symbol a moral exemplar, a contested national hero, and a deeply human figure whose
           life invites reflection about the roles of intellect, civic service, and sacrifice in social change. His works
           and life continue to be studied and commemorated in the Philippines and abroad as lessons in conscience, civic
           responsibility, and the costs of colonial injustice.
@@ -400,7 +400,7 @@ export function EssayContent() {
         <h2 className="text-3xl font-bold text-primary mb-6">References (open-source)</h2>
         <ul className="space-y-3 text-foreground/90">
           <li>
-            <strong>National Historical Commission of the Philippines</strong> — José Rizal registry and markers.
+            <strong>National Historical Commission of the Philippines</strong>   José Rizal registry and markers.
             <a
               href="https://philhistoricsites.nhcp.gov.ph"
               className="text-accent hover:underline ml-1"
@@ -411,7 +411,7 @@ export function EssayContent() {
             </a>
           </li>
           <li>
-            <strong>Encyclopaedia Britannica</strong> — "José Rizal" (biography and context).
+            <strong>Encyclopaedia Britannica</strong>   "José Rizal" (biography and context).
             <a
               href="https://www.britannica.com"
               className="text-accent hover:underline ml-1"
@@ -433,7 +433,7 @@ export function EssayContent() {
             </a>
           </li>
           <li>
-            <strong>Primary texts and scholarly analysis</strong> — <em>Noli Me Tángere</em> and{" "}
+            <strong>Primary texts and scholarly analysis</strong>   <em>Noli Me Tángere</em> and{" "}
             <em>El Filibusterismo</em> analyses and PDFs (university-hosted copies and literary criticism).
             <a
               href="https://home.uchicago.edu"
