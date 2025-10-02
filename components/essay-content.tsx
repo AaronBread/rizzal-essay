@@ -158,7 +158,7 @@ export function EssayContent() {
           className="relative w-full h-[350px] my-8 overflow-hidden rounded-lg opacity-0"
         >
           <Image
-            src="/rizal-ancestral-house-in-calamba-laguna-philippine.jpg"
+            src="rizal-ancestral-house-in-calamba-laguna-philippine.jpg"
             alt="Rizal ancestral home in Calamba"
             fill
             className="object-cover"
@@ -263,7 +263,7 @@ export function EssayContent() {
           className="relative float-right w-full md:w-1/2 h-[400px] ml-0 md:ml-8 mb-6 overflow-hidden rounded-lg opacity-0"
         >
           <Image
-            src="/jose-rizal-writing-noli-me-tangere-el-filibusteris.jpg"
+            src="jose-rizal-writing-noli-me-tangere-el-filibusteris.jpg"
             alt="Rizal writing his novels"
             fill
             className="object-cover"
@@ -342,7 +342,7 @@ export function EssayContent() {
           className="relative w-full h-[450px] my-8 overflow-hidden rounded-lg opacity-0"
         >
           <Image
-            src="/rizal-monument-luneta-park-manila-execution-site-m.jpg"
+            src="rizal-monument-luneta-park-manila-execution-site-m.jpg"
             alt="Rizal Monument at Luneta Park"
             fill
             className="object-cover"
