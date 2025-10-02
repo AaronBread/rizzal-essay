@@ -57,7 +57,7 @@ export function EssayContent() {
         className="relative w-full h-[500px] -mx-4 mb-16 overflow-hidden rounded-lg opacity-0"
       >
         <Image
-          src="/jose-rizal-portrait-formal-photograph-1890s-sepia-.jpg"
+          src="public/jose-rizal-portrait-formal-photograph-1890s-sepia-.jpg"
           alt="José Rizal formal portrait"
           fill
           className="object-cover"
@@ -108,7 +108,7 @@ export function EssayContent() {
           }}
           className="relative float-right w-full md:w-1/2 h-[400px] ml-0 md:ml-8 mb-6 overflow-hidden rounded-lg opacity-0"
         >
-          <Image src="/young-jose-rizal-as-a-child-student-in-ateneo-unif.jpg" alt="Young José Rizal" fill className="object-cover" />
+          <Image src="public/young-jose-rizal-as-a-child-student-in-ateneo-unif.jpg" alt="Young José Rizal" fill className="object-cover" />
         </div>
 
         <h3 className="text-xl font-semibold text-foreground mt-8 mb-4">A. Inherited traits</h3>
@@ -152,7 +152,7 @@ export function EssayContent() {
           }}
           className="relative w-full h-[350px] my-8 overflow-hidden rounded-lg opacity-0"
         >
-          <Image src="/rizal-ancestral-house-in-calamba-laguna-philippine.jpg" alt="Rizal ancestral home in Calamba" fill className="object-cover" />
+          <Image src="public/rizal-ancestral-house-in-calamba-laguna-philippine.jpg" alt="Rizal ancestral home in Calamba" fill className="object-cover" />
         </div>
 
         <h3 className="text-xl font-semibold text-foreground mt-8 mb-4">B. Educational experiences</h3>
@@ -192,7 +192,7 @@ export function EssayContent() {
           }}
           className="relative float-left w-full md:w-1/2 h-[400px] mr-0 md:mr-8 mb-6 overflow-hidden rounded-lg opacity-0"
         >
-          <Image src="/jose-rizal-in-europe-madrid-spain-1880s-studying-w.jpg" alt="Rizal studying in Europe" fill className="object-cover" />
+          <Image src="public/jose-rizal-in-europe-madrid-spain-1880s-studying-w.jpg" alt="Rizal studying in Europe" fill className="object-cover" />
         </div>
 
         <p className="leading-relaxed text-foreground/90 mb-4">
@@ -216,7 +216,7 @@ export function EssayContent() {
           }}
           className="relative w-full h-[400px] my-8 overflow-hidden rounded-lg opacity-0 clear-both"
         >
-          <Image src="/rizal-in-dapitan-exile-teaching-students-community.jpg" alt="Rizal's life in Dapitan" fill className="object-cover" />
+          <Image src="public/rizal-in-dapitan-exile-teaching-students-community.jpg" alt="Rizal's life in Dapitan" fill className="object-cover" />
         </div>
 
         <h3 className="text-xl font-semibold text-foreground mt-8 mb-4">C. Rizal's Arrest, Trial, and Execution</h3>
@@ -242,7 +242,7 @@ export function EssayContent() {
           }}
           className="relative float-right w-full md:w-1/2 h-[400px] ml-0 md:ml-8 mb-6 overflow-hidden rounded-lg opacity-0"
         >
-          <Image src="/jose-rizal-writing-noli-me-tangere-el-filibusteris.jpg" alt="Rizal writing his novels" fill className="object-cover" />
+          <Image src="public/jose-rizal-writing-noli-me-tangere-el-filibusteris.jpg" alt="Rizal writing his novels" fill className="object-cover" />
         </div>
 
         <h3 className="text-xl font-semibold text-foreground mt-8 mb-4">A. Rizal's Virtues and strengths</h3>
@@ -316,7 +316,7 @@ export function EssayContent() {
           }}
           className="relative w-full h-[450px] my-8 overflow-hidden rounded-lg opacity-0"
         >
-          <Image src="/rizal-monument-luneta-park-manila-execution-site-m.jpg" alt="Rizal Monument at Luneta Park" fill className="object-cover" />
+          <Image src="public/rizal-monument-luneta-park-manila-execution-site-m.jpg" alt="Rizal Monument at Luneta Park" fill className="object-cover" />
         </div>
       </section>
 
@@ -351,7 +351,7 @@ export function EssayContent() {
           }}
           className="relative w-full h-[400px] mt-8 overflow-hidden rounded-lg opacity-0"
         >
-          <Image src="/jose-rizal-legacy-philippine-flag-national-hero-tr.jpg" alt="Rizal's enduring legacy" fill className="object-cover" />
+          <Image src="public/jose-rizal-legacy-philippine-flag-national-hero-tr.jpg" alt="Rizal's enduring legacy" fill className="object-cover" />
         </div>
       </section>
 
