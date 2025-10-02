@@ -402,7 +402,7 @@ export function EssayContent() {
           <li>
             <strong>National Historical Commission of the Philippines</strong>   José Rizal registry and markers.
             <a
-              href="https://philhistoricsites.nhcp.gov.ph"
+              href="https://philhistoricsites.nhcp.gov.ph/registry_database/jose-rizal-1861-1896-7/"
               className="text-accent hover:underline ml-1"
               target="_blank"
               rel="noopener noreferrer"
@@ -413,7 +413,7 @@ export function EssayContent() {
           <li>
             <strong>Encyclopaedia Britannica</strong>   "José Rizal" (biography and context).
             <a
-              href="https://www.britannica.com"
+              href="https://www.britannica.com/biography/Jose-Rizal"
               className="text-accent hover:underline ml-1"
               target="_blank"
               rel="noopener noreferrer"
@@ -424,19 +424,19 @@ export function EssayContent() {
           <li>
             <strong>José Rizal Shrine / Dapitan City</strong> and NHCP museum pages (Rizal in Dapitan).
             <a
-              href="https://dapitancity.gov.ph"
+              href="https://nhcp.gov.ph/meseums/mjrd/"
               className="text-accent hover:underline ml-1"
               target="_blank"
               rel="noopener noreferrer"
             >
-              dapitancity.gov.ph
+              nhcp.gov.ph
             </a>
           </li>
           <li>
             <strong>Primary texts and scholarly analysis</strong>   <em>Noli Me Tángere</em> and{" "}
             <em>El Filibusterismo</em> analyses and PDFs (university-hosted copies and literary criticism).
             <a
-              href="https://home.uchicago.edu"
+              href="https://home.uchicago.edu/aabbott/barbpapers/barbrizal.pdf"
               className="text-accent hover:underline ml-1"
               target="_blank"
               rel="noopener noreferrer"
@@ -447,7 +447,7 @@ export function EssayContent() {
           <li>
             <strong>Background on the Propaganda Movement</strong> and the Philippine Revolution (Britannica).
             <a
-              href="https://www.britannica.com"
+              href="https://www.britannica.com/topic/Propaganda-Movement"
               className="text-accent hover:underline ml-1"
               target="_blank"
               rel="noopener noreferrer"
